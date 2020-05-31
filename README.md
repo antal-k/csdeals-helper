@@ -1,4 +1,3 @@
-# csdeals-helper
-CSDeals helper lib
+# CSDeals helper lib
 
 Read test.js to see how it works
